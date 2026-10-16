@@ -1,4 +1,4 @@
-# CineScope — Mobile Movie Discovery Application
+# (https://github.com/priyanshukailashgupta/cinescope_app/blob/main/assets/icon.png) CineScope — Mobile Movie Discovery Application
 
 [![React Native](https://img.shields.io/badge/React%20Native-0.86-blue.svg)](https://reactnative.dev)
 [![Expo](https://img.shields.io/badge/Expo%20SDK-57-black.svg)](https://expo.dev)

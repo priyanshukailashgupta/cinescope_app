@@ -1,0 +1,46 @@
+# Dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+
+# Native builds
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro cache
+.metro-health-check*
+
+# Environment secrets (Strictly ignored)
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Assignment Brief
+terms.md
+
+# Agent & AI Workspace Configuration
+.agents/
+AGENTS.md
+skills-lock.json
+docs/START_HERE_FOR_AI.md
+docs/AI_CONTEXT.md
+docs/AI_GUIDELINES.md
+docs/DEVELOPMENT_LOG.md
+.gemini/
+
